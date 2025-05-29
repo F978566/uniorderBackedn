@@ -1,0 +1,7 @@
+/migrations
+/venv
+/uploads
+.env
+test.py
+test1.py
+uniorder.db
